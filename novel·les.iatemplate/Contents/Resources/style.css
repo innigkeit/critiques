@@ -1,0 +1,24 @@
+body {
+    font-family: 'Lora', Georgia, serif;
+    background-color: #fdf7e4;
+    color: #6a7b7f;
+    max-width: 680px;
+    margin: 0 auto;
+    padding: 40px 20px;
+    font-size: 18px;
+    line-height: 1.8;
+}
+img {
+    width: 100%;
+    margin: 20px 0;
+    border-radius: 4px;
+}
+blockquote {
+    background-color: #ede4d0;
+    border-left: none;
+    padding: 15px 20px;
+    margin: 20px 0;
+    border-radius: 6px;
+    font-style: italic;
+    font-size: 16px;
+}
